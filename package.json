@@ -1,0 +1,23 @@
+{
+  "name": "shortid-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack && open test.html test-prototype.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optimizely/shortid-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/optimizely/shortid-test/issues"
+  },
+  "homepage": "https://github.com/optimizely/shortid-test#readme",
+  "dependencies": {
+    "shortid": "2.2.8",
+    "webpack": "3.5.6"
+  }
+}
